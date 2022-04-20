@@ -1,5 +1,5 @@
 # Java-Project
-java tutorial
+Java tutorial
 
 Understand the basics of Java:
 
